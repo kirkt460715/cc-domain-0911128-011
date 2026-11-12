@@ -1,0 +1,607 @@
+{
+  "observations": [
+    {
+      "id": "check-0",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-01T00:00:00+00:00",
+      "recorded_at": "2026-09-03T00:00:00+00:00",
+      "reference": "10",
+      "value": "10.05",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-1",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-01T12:00:00+00:00",
+      "recorded_at": "2026-09-01T12:00:00+00:00",
+      "reference": "10",
+      "value": "10.052000000000001",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-2",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-02T00:00:00+00:00",
+      "recorded_at": "2026-09-02T00:00:00+00:00",
+      "reference": "10",
+      "value": "10.054",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-3",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-02T12:00:00+00:00",
+      "recorded_at": "2026-09-02T12:00:00+00:00",
+      "reference": "10",
+      "value": "10.056000000000001",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-4",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-03T00:00:00+00:00",
+      "recorded_at": "2026-09-03T00:00:00+00:00",
+      "reference": "10",
+      "value": "10.058",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-5",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-03T12:00:00+00:00",
+      "recorded_at": "2026-09-03T12:00:00+00:00",
+      "reference": "10",
+      "value": "10.06",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-6",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-04T00:00:00+00:00",
+      "recorded_at": "2026-09-04T00:00:00+00:00",
+      "reference": "10",
+      "value": "10.062000000000001",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-7",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-05T06:00:00+00:00",
+      "recorded_at": "2026-09-05T06:00:00+00:00",
+      "reference": "10",
+      "value": "10.064",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-8",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-05T18:00:00+00:00",
+      "recorded_at": "2026-09-05T18:00:00+00:00",
+      "reference": "10",
+      "value": "10.066",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-9",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-06T06:00:00+00:00",
+      "recorded_at": "2026-09-08T06:00:00+00:00",
+      "reference": "10",
+      "value": "10.068000000000001",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-10",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-06T18:00:00+00:00",
+      "recorded_at": "2026-09-06T18:00:00+00:00",
+      "reference": "10",
+      "value": "10.07",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-11",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-07T06:00:00+00:00",
+      "recorded_at": "2026-09-07T06:00:00+00:00",
+      "reference": "10",
+      "value": "10.072000000000001",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-12",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-07T18:00:00+00:00",
+      "recorded_at": "2026-09-07T18:00:00+00:00",
+      "reference": "10",
+      "value": "10.074",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-13",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-08T06:00:00+00:00",
+      "recorded_at": "2026-09-08T06:00:00+00:00",
+      "reference": "10",
+      "value": "10.076",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-14",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-09T12:00:00+00:00",
+      "recorded_at": "2026-09-09T12:00:00+00:00",
+      "reference": "10",
+      "value": "10.078000000000001",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-15",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-10T00:00:00+00:00",
+      "recorded_at": "2026-09-10T00:00:00+00:00",
+      "reference": "10",
+      "value": "10.08",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-16",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-10T12:00:00+00:00",
+      "recorded_at": "2026-09-10T12:00:00+00:00",
+      "reference": "10",
+      "value": "10.082",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-17",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-11T00:00:00+00:00",
+      "recorded_at": "2026-09-11T00:00:00+00:00",
+      "reference": "10",
+      "value": "10.084000000000001",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-18",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-11T12:00:00+00:00",
+      "recorded_at": "2026-09-13T12:00:00+00:00",
+      "reference": "10",
+      "value": "10.086",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-19",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-12T00:00:00+00:00",
+      "recorded_at": "2026-09-12T00:00:00+00:00",
+      "reference": "10",
+      "value": "10.088000000000001",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-20",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-12T12:00:00+00:00",
+      "recorded_at": "2026-09-12T12:00:00+00:00",
+      "reference": "10",
+      "value": "10.09",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-21",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-13T18:00:00+00:00",
+      "recorded_at": "2026-09-13T18:00:00+00:00",
+      "reference": "10",
+      "value": "10.092",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-22",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-14T06:00:00+00:00",
+      "recorded_at": "2026-09-14T06:00:00+00:00",
+      "reference": "10",
+      "value": "10.094000000000001",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-23",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-14T18:00:00+00:00",
+      "recorded_at": "2026-09-14T18:00:00+00:00",
+      "reference": "10",
+      "value": "10.096",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-24",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-15T06:00:00+00:00",
+      "recorded_at": "2026-09-15T06:00:00+00:00",
+      "reference": "10",
+      "value": "10.098",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-25",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-15T18:00:00+00:00",
+      "recorded_at": "2026-09-15T18:00:00+00:00",
+      "reference": "10",
+      "value": "10.100000000000001",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-26",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-16T06:00:00+00:00",
+      "recorded_at": "2026-09-16T06:00:00+00:00",
+      "reference": "10",
+      "value": "10.102",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-27",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-16T18:00:00+00:00",
+      "recorded_at": "2026-09-18T18:00:00+00:00",
+      "reference": "10",
+      "value": "10.104000000000001",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-28",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-18T00:00:00+00:00",
+      "recorded_at": "2026-09-18T00:00:00+00:00",
+      "reference": "10",
+      "value": "10.106",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-29",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-18T12:00:00+00:00",
+      "recorded_at": "2026-09-18T12:00:00+00:00",
+      "reference": "10",
+      "value": "10.108",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-30",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-19T00:00:00+00:00",
+      "recorded_at": "2026-09-19T00:00:00+00:00",
+      "reference": "10",
+      "value": "10.110000000000001",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-31",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-19T12:00:00+00:00",
+      "recorded_at": "2026-09-19T12:00:00+00:00",
+      "reference": "10",
+      "value": "10.112",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-32",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-20T00:00:00+00:00",
+      "recorded_at": "2026-09-20T00:00:00+00:00",
+      "reference": "10",
+      "value": "10.114",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-33",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-20T12:00:00+00:00",
+      "recorded_at": "2026-09-20T12:00:00+00:00",
+      "reference": "10",
+      "value": "10.116000000000001",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-34",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-21T00:00:00+00:00",
+      "recorded_at": "2026-09-21T00:00:00+00:00",
+      "reference": "10",
+      "value": "10.118",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-35",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-22T06:00:00+00:00",
+      "recorded_at": "2026-09-22T06:00:00+00:00",
+      "reference": "10",
+      "value": "10.120000000000001",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-36",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-22T18:00:00+00:00",
+      "recorded_at": "2026-09-24T18:00:00+00:00",
+      "reference": "10",
+      "value": "10.122",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-37",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-23T06:00:00+00:00",
+      "recorded_at": "2026-09-23T06:00:00+00:00",
+      "reference": "10",
+      "value": "10.124",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-38",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-23T18:00:00+00:00",
+      "recorded_at": "2026-09-23T18:00:00+00:00",
+      "reference": "10",
+      "value": "10.126000000000001",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    },
+    {
+      "id": "check-39",
+      "instrument": "press-1",
+      "channel": "p",
+      "certificate": "cert-1",
+      "event_time": "2026-09-24T06:00:00+00:00",
+      "recorded_at": "2026-09-24T06:00:00+00:00",
+      "reference": "10",
+      "value": "10.128",
+      "unit": "kPa",
+      "reference_standard_uncertainty": "0.01",
+      "measurement_standard_uncertainty": "0.02"
+    }
+  ],
+  "study": {
+    "instrument": "press-1",
+    "channel": "p",
+    "known_at": "2026-10-15T00:00:00Z",
+    "initial_mean": [
+      0,
+      0
+    ],
+    "initial_covariance": [
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        0.01
+      ]
+    ],
+    "time_unit": "day",
+    "process_noise_candidates": [
+      1e-05,
+      0.0001,
+      0.001
+    ],
+    "observation_variance_multipliers": [
+      1,
+      2
+    ],
+    "seed": 41128
+  },
+  "configuration": {
+    "id": "demo-config",
+    "instruments": [
+      {
+        "id": "press-1",
+        "label": "Synthetic pressure instrument",
+        "channels": {
+          "p": "kPa"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "bench",
+        "allowed_lateness": 0
+      }
+    ],
+    "certificates": [
+      {
+        "id": "cert-1",
+        "instrument": "press-1",
+        "channel": "p",
+        "valid_from": "2026-01-01T00:00:00Z",
+        "valid_to": "2027-01-01T00:00:00Z",
+        "input_unit": "kPa",
+        "output_unit": "kPa",
+        "slope": "1",
+        "intercept": ".1",
+        "uncertainty": ".01",
+        "minimum": "0",
+        "maximum": "100",
+        "issued_at": "2025-12-01T00:00:00Z"
+      }
+    ],
+    "policies": [
+      {
+        "id": "q1",
+        "unit": "kPa",
+        "lower": "0",
+        "upper": "20",
+        "required_tags": [
+          "lot"
+        ]
+      }
+    ],
+    "bindings": [
+      {
+        "instrument": "press-1",
+        "channel": "p",
+        "policy": "q1"
+      }
+    ]
+  }
+}
